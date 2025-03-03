@@ -26,7 +26,7 @@
 "Menu.OpenBookmarksAction.AccessibilityLabel.v2" = "അടയാളക്കുറിപ്പുകള്‍";
 
 /* Accessibility label for the button, displayed in the menu, used to open the Downloads home panel. Please keep as short as possible, <15 chars of space available. */
-"Menu.OpenDownloadsAction.AccessibilityLabel.v2" = "ഡൗണ്‍ലോഡുകള്‍";
+"Menu.OpenDownloadsAction.AccessibilityLabel.v2" = "ഇറക്കിവയ്ക്കലുകൾ";
 
 /* Accessibility label for the button, displayed in the menu, used to open the History home panel. Please keep as short as possible, <15 chars of space available. */
 "Menu.OpenHistoryAction.AccessibilityLabel.v2" = "നാള്‍വഴി";
@@ -47,7 +47,7 @@
 "Menu.SeeAllAction.Title" = "മുഴുവന്‍ കാണുക";
 
 /* Label for the button, displayed in the menu, used to open the share dialog. */
-"Menu.SharePageAction.Title" = "ഉപയോഗിച്ച് പേജ് പങ്കിടുക…";
+"Menu.SharePageAction.Title" = "ഉപയോഗിച്ച് താളിനെ പങ്കിടുക…";
 
 /* Label for the button, displayed in the menu, used to request the desktop version of the current website. */
 "Menu.ViewDekstopSiteAction.Title" = "ഡെസ്ക്ടോപ്പ് സൈറ്റ് ആവശ്യപ്പെടുക";
